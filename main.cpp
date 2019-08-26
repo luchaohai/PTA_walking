@@ -3,10 +3,7 @@ using namespace std;
 
 int main()
 {
-    int result;
-    int a = 2;
-    int b = 3;
-    result = a + b;
-    cout << result << endl;
+    int i;
+    printf("%d", i);
     return 0;
 }

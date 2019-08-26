@@ -18,5 +18,9 @@
         "/usr/local/opt/opencv@3/include"
         // "/usr/local/Cellar/opencv/4.0.1/include/opencv4"
         // "/usr/local/include/opencv4"
-    ]
+    ],
+    "files.associations": {
+        "*.ts": "typescript",
+        "iterator": "cpp"
+    }
 }
